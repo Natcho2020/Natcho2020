@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 ### Hi there 👋 Mi Name is Ignacio Morales , Wolcome to my Repo! ✨ 
 
 <p align="center">
@@ -9,6 +10,11 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+<p>
+  📫
+  <a href="https://gist.github.com/roachhd/1f029bd4b50b8a524f3c">
+  </p>
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
