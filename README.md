@@ -11,8 +11,8 @@
 - 🔥 I am passionate, organized, diligent and very proactive.
 - 📫 How to reach me: ...
 - <p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Flinkedin-logo&psig=AOvVaw1_y3YoKyheh6Mx6JT9kAC8&ust=1721268168972000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjvtOL9rIcDFQAAAAAdAAAAABAE">
-<a href="https://www.linkedin.com/in/ignacio-morales-07035079">
+<a href="https://www.linkedin.com/in/ignacio-morales-07035079"><li-icon type="app-linkedin-bug-color-icon" class="ivm-view-attr__icon  " size="large" role="img" aria-label="LinkedIn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+    </svg></li-icon> </a>
 </p>
 
 - 💬 Ask me about ...
